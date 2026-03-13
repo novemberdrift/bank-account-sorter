@@ -1,3 +1,5 @@
+package data;
+
 public class BankAccount {
     private final String accountNumber;
     private final String accountHolder;
